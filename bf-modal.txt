@@ -8,3 +8,9 @@ Fourth and fift Toast is aded in this file from toast branch
 below multiple conflict lines are added from modal branch
 another conflict
 another conflict22
+lines added for conflicts from toast-branch
+
+below multiple conflict lines are added from modal branch
+another conflict
+another conflict22
+lines added for conflicts from toast-branch
