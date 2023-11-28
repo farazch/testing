@@ -4,3 +4,7 @@ Second Toast is aded in this file from toast branch
 Third Toast is aded in this file from toast branch
 Fourth and fift Toast is aded in this file from toast branch
 6,7,8,9 Toast is aded in this file from toast branch
+
+below multiple conflict lines are added from modal branch
+another conflict
+another conflict22
