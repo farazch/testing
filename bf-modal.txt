@@ -13,4 +13,4 @@ lines added for conflicts from toast-branch
 below multiple conflict lines are added from modal branch
 another conflict
 another conflict22
-lines added for conflicts from toast-branch
+lines added for conflicts from toast-branchline is added in modal-branch to test checkout command
